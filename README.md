@@ -8,3 +8,7 @@ Added Development branch
 
 
 Added Feature-1 branch
+
+Adding feature 2
+
+adding feature-3
